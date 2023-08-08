@@ -8,7 +8,7 @@ Enter three integers:<br>
 in ascending order: 1 2 5<br>
 
 Enter three integers:<br>
-1 5 1<br>
+1 5 1<br> 
 in ascending order: 1 1 5<br>
 
 Enter three integers:<br>
